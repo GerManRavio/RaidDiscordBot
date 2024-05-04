@@ -45,7 +45,7 @@ module.exports = {
             **Gelbes Quadrat** = Nicht sicher :yellow_square:
             **Rotes Quadrat** = Abmeldung :red_square:
             
-            Es wird gebeten sich um **5 min** vor dem Raid im Funk einzufinden.\n\n**Regeln:**\n- PTS Während dem Raid Aktiv | Nur Raid Leiter / Caller + SH Leitung / Ranghöchster SHler, haben Berechtigung zu sprechen (Nur wichtiges / Informationen).\n- Sollte man was wichtiges sagen müssen während dem Raid, so darf man dies tun (**Wichtiges** = Feinde / SCPs / D-Klassen gesichtet, Stellungen gesichtet usw).\n- Auf Befehle vom Raid Leiter werden gehört.\n- Kein durcheinander reden / Scheiße bauen während der Planung / Raid's.\n
+            Es wird gebeten sich **5 min** vor dem Raid im Funk einzufinden.\n\n**Regeln:**\n- PTS Während dem Raid Aktiv | Nur Raid Leiter / Caller + SH Leitung / Ranghöchster SHler, haben Berechtigung zu sprechen (Nur wichtiges / Informationen).\n- Sollte man was wichtiges sagen müssen während dem Raid, so darf man dies tun (**Wichtiges** = Feinde / SCPs / D-Klassen gesichtet, Stellungen gesichtet usw).\n- Auf Befehle vom Raid Leiter werden gehört.\n- Kein durcheinander reden / Scheiße bauen während der Planung / Raid's.\n
             :warning: **Zusatz Regeln können vom Raid Leiter gemacht werden** :warning: 
             :warning: **Verstoß gegen diese Regeln führt zum Demote / Negativen!** :warning:`,fetchReply: true});
             message.react('🟩');
